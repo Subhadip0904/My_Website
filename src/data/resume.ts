@@ -25,7 +25,7 @@ export const resumeData = {
     {
       company: "Capgemini Technology Services India Ltd.",
       role: "Software Analyst",
-      dates: "Jul 2022 – Jul 2024",
+      dates: "December 2022 - August 2024",
       location: "Mumbai, India",
       bullets: [
         "Architected automated CI/CD pipelines for Agile delivery, reducing release cycle times by 15% through process automation and cross-team coordination.",
